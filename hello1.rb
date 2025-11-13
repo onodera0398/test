@@ -1,5 +1,5 @@
 puts "hello!"
 puts "hello"
 puts"aiueo"
-
+puts"kadai"
 puts"sub1"
