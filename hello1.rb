@@ -1,6 +1,6 @@
 puts "hello!"
 puts "hello"
 puts"aiueo"
-puts"kadai"
+puts"kadaa"
 puts"sub1"
 puts"aiueo"
